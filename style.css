@@ -1,0 +1,48 @@
+.jumbotron{
+  background-image:url(https://images.unsplash.com/photo-1574080344876-1f4089ba07fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80);
+  background-size:cover ;
+  height: 770px;
+  text-align:center;
+}
+
+img{
+  height:165px;
+}
+
+.display-4{
+  
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 84px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+.lead{
+
+font-family: calibri;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.jumbotron .btn{
+  width: 156px;
+  height: 46px;
+  left: 477px;
+  top: 481px;
+  border: 2px solid #FCB371;
+  box-sizing: border-box;
+  border-radius: 6px;
+  font-family:'Pacifico';
+  color:#FCB371;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+}
